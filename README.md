@@ -87,7 +87,6 @@
 - [Avalonia](https://github.com/AvaloniaUI/Avalonia) - Avalonia is a cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows via .NET Framework and .NET Core, Linux via Xorg, macOS
 - [JsonJitSerializer](https://github.com/Martin1994/JsonJitSerializer) - A JIT JSON Serializer for .NET Core 3.0
 - [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
-- [Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) - 导入导出通用库，支持Dto导入导出、模板导出、花式导出以及动态导出，支持Excel、Csv、Word、Pdf和Html。Import and export general library, support Dto import and export, template export, fancy export and dynamic export, support Excel, Csv, Word, Pdf and Html.
 - [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++.
 - [EasyHttpClient](https://github.com/Winson-Ng/EasyHttpClient) - C# HttpClient Library
 - [BanBrick.TypeScript.CodeGenerator](https://github.com/JiarongGu/BanBrick.TypeScript.CodeGenerator) - C# to TypeScript Code Generator Libarary for WebApi
@@ -144,13 +143,11 @@
 - [FluentIL](https://github.com/FluentIL/FluentIL) - 
 - [GofForCSharp](https://github.com/steveleeCN87/GofForCSharp) - Implementation of 23 design patterns c#
 - [AspNetKatana](https://github.com/aspnet/AspNetKatana) - Microsoft's OWIN implementation, the Katana project
-- [Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
 - [Insight.Database](https://github.com/jonwagner/Insight.Database) - Fast, lightweight .NET micro-ORM
 - [Hangfire](https://github.com/HangfireIO/Hangfire) - An easy way to perform background job processing in your .NET and .NET Core applications. No Windows Service or separate process required
 - [MicroOrm.Dapper.Repositories](https://github.com/microorm-dotnet/MicroOrm.Dapper.Repositories) - CRUD for Dapper
 - [fluentmigrator](https://github.com/fluentmigrator/fluentmigrator) - Fluent migrations framework for .NET
 - [mongodb-generic-repository](https://github.com/alexandre-spieser/mongodb-generic-repository) - An example of generic repository implementation using the MongoDB C# Sharp 2.0 driver (async)
-- [Crypto](https://github.com/ErikXu/Crypto) - A crypto demo, DES, AES, MD5, SHA1, RSA, Salt, Pkcs8 are involved.
 - [aspnetcore](https://github.com/dotnet/aspnetcore) - ASP.NET Core is a cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
 - [DotNetty](https://github.com/Azure/DotNetty) - DotNetty project – a port of netty, event-driven asynchronous network application framework
 - [awesome-dotnet-core](https://github.com/thangchung/awesome-dotnet-core) - :honeybee: A collection of awesome .NET core libraries, tools, frameworks and software
@@ -159,14 +156,9 @@
 - [WebApiClient](https://github.com/dotnetcore/WebApiClient) - An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
 - [workflow-core](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard
 - [Natasha](https://github.com/dotnetcore/Natasha) - 基于 Roslyn 的 C# 动态程序集构建库，该库允许开发者在运行时使用 C# 代码构建域 / 程序集 / 类 / 结构体 / 枚举 / 接口 / 方法等，使得程序在运行的时候可以增加新的模块及功能。Natasha 集成了域管理/插件管理，可以实现域隔离，域卸载，热拔插等功能。 该库遵循完整的编译流程，提供完整的错误提示， 可自动添加引用，完善的数据结构构建模板让开发者只专注于程序集脚本的编写，兼容 stanadard2.0 / netcoreapp3.0+, 跨平台，统一、简便的链式 API。 且我们会尽快修复您的问题及回复您的 issue.
-- [surging](https://github.com/fanliang11/surging) - Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline. The service engine supports http, TCP, WS,Grpc, Thrift,Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm, built-in service governance to ensure reliable RPC communication, the engine contains Diagnostic, link tracking for protocol and middleware calls, and integration SkyWalking Distributed APM
-- [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - :camera: A fluent wrapper around System.Drawing for the processing of image files.
 - [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client
 - [shriek-fx](https://github.com/Shriek-Projects/shriek-fx) - An easy-to-use rapid development framework developed on the basis of.NET Core 2.0, following the constraints of domain Driven Design (DDD) specifications, combined with the CQRS architecture to provide the infrastructure for event-driven, event backtracking, responsiveness, and more. Let developers enjoy the true meaning of object-oriented design patterns brought by the aesthetic.
-- [GracefulTear](https://github.com/dotnetcore-internal/GracefulTear) - An open source common PMS based on IdentityServer 4 proudly developed by Community Development Team of NCC.
-- [CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
 - [Dapper](https://github.com/StackExchange/Dapper) - Dapper - a simple object mapper for .Net
-- [CachingFramework.Redis](https://github.com/thepirat000/CachingFramework.Redis) - Distributed caching based on StackExchange.Redis and Redis. Includes support for tagging and is cluster-compatible.
 - [QuartzNetJob](https://github.com/ice-ko/QuartzNetJob) - Asp.Net Core 2.0 后端任务管理
 - [NanoFabric](https://github.com/geffzhang/NanoFabric) - 基于Consul + .NET Core + Polly + Ocelot + Exceptionless + IdentityServer等开源项目的微服务开发框架
 - [Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility) - Various helper class
@@ -206,7 +198,6 @@
 - [cnblogs-theme-silence](https://github.com/esofar/cnblogs-theme-silence) - 📖 一款专注于阅读的博客园主题
 - [http-api-design-ZH_CN](https://github.com/ZhangBohan/http-api-design-ZH_CN) - HTTP API 设计指南(http-api-design-ZH_CN)，翻译自https://github.com/interagent/http-api-design
 - [node-blog](https://github.com/liuxing/node-blog) - :rocket:《Node.js从入门到上线》A blog build with Koa2.
-- [Alipay.Demo.PCPayment](https://github.com/stulzq/Alipay.Demo.PCPayment) - 支付宝PC网站支付、扫码支付 演示项目，实现支付、支付同步回调、支付异步通知、订单查询、退款、退款查询、订单关闭、扫码支付功能。采用支付宝服务端SDK：Alipay.AopSdk.Core，使用ASP.NET Core MVC 。
 
 ## Java 
 
@@ -283,17 +274,14 @@
 - [hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 - [Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API) - BILIBILI 直播/番剧 API
 - [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2021
-- [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 
 ## Python 
 
-- [BiliDrive](https://github.com/Hsury/BiliDrive) - ☁️ 哔哩云，不支持任意文件的全速上传与下载
 - [12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
 - [pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python
 - [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
 - [Ignareo-ISML-auto-voter](https://github.com/Hecate2/Ignareo-ISML-auto-voter) - Ignareo the Carillon, a web spider engine of ultimate concurrency built for leprechauns. Carillons as the best web spiders; Long live the golden years of leprechauns!
-- [ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 
 ## Shell 
 
@@ -365,7 +353,6 @@
 
 - [iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
-- [cnode-code](https://github.com/mov1er/cnode-code) - vue-museui重写cnodejs.org社区
 - [muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
 
 
