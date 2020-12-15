@@ -5,116 +5,43 @@
 
 ## Contents
 
-  - [TypeScript](#typescript)
   - [C](#c)
-  - [JavaScript](#javascript)
-  - [C++](#c++)
   - [C#](#c#)
-  - [Java](#java)
+  - [C++](#c++)
+  - [CSS](#css)
+  - [Dockerfile](#dockerfile)
+  - [Go](#go)
   - [HTML](#html)
-  - [Shell](#shell)
+  - [Java](#java)
+  - [JavaScript](#javascript)
+  - [Lua](#lua)
+  - [Objective-C](#objective-c)
   - [Others](#others)
   - [Python](#python)
-  - [Lua](#lua)
+  - [Shell](#shell)
   - [Standard ML](#standard-ml)
-  - [Objective-C](#objective-c)
-  - [CSS](#css)
+  - [TypeScript](#typescript)
   - [Vim script](#vim-script)
   - [Vue](#vue)
 
-## TypeScript
-
-- [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
-- [react-native-reanimated-bottom-sheet](https://github.com/osdnk/react-native-reanimated-bottom-sheet) - Highly configurable bottom sheet component made with react-native-reanimated and react-native-gesture-handler
-- [Instagram-clone](https://github.com/Doha26/Instagram-clone) - A clone of the Instagram app. made with React-native and Typescript.
-- [ext-saladict](https://github.com/crimx/ext-saladict) - Feature-rich professional inline translator.
-- [tiny-react-with-hooks](https://github.com/waynecz/tiny-react-with-hooks) - ⚛︎ Fundamental Implementation of React with Hooks & VDOM
-- [react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀
-- [react-native-image-viewing](https://github.com/jobtoday/react-native-image-viewing) - Tiny, purely TS, modal component for viewing images 🏙
-- [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
-- [fluentui](https://github.com/microsoft/fluentui) - We've moved! UI Fabric is now Fluent UI - A set of React components for building Microsoft web experiences.
-- [react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
-- [ttypescript](https://github.com/cevek/ttypescript) - Over TypeScript tool to use custom transformers in the tsconfig.json
-- [ts-transformer-keys](https://github.com/kimamula/ts-transformer-keys) - A TypeScript custom transformer which enables to obtain keys of given type
-- [ts-retrofit](https://github.com/nullcc/ts-retrofit) - A declarative and axios based retrofit implementation for JavaScript and TypeScript.
-- [react-native-iconfont-cli](https://github.com/iconfont-cli/react-native-iconfont-cli) - 把iconfont.cn的图标转换成标准RN组件，不依赖字体，支持多色彩，支 持热更新
-- [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - 📄 PDF Viewer Component for Angular 5+
-- [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
-- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
-- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) - ⚛️ 📺 Projects from the “Can it be done in React Native?” YouTube series
-- [universal-nest](https://github.com/TrilonIO/universal-nest) - Nest + Angular Universal = ❤️ by @TrilonIO
-- [reflect-metadata](https://github.com/rbuckton/reflect-metadata) - Prototype for a Metadata Reflection API for ECMAScript
-- [DynamicMapper](https://github.com/DynamicMapper/DynamicMapper) - Object to object mapping in JavaScript
-- [loopback-next](https://github.com/strongloop/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
-- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
-- [wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
-- [stencil](https://github.com/ionic-team/stencil) - A Web Component compiler for building fast, reusable UI components and static site generated Progressive Web Apps
-- [vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
-- [better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
-- [angular-ngrx-material-starter](https://github.com/tomastrajan/angular-ngrx-material-starter) - Angular, NgRx, Angular CLI & Angular Material Starter Project
-- [rebirth-http](https://github.com/NG-ZORRO/rebirth-http) - Java JPA like HTTP client for Angular. 🍙
-- [ionic4-boilerplate](https://github.com/pengkobe/ionic4-boilerplate) - :rocket: boilerplate for ionic4 with CI based on travis and fastlane. doc and example are provided
-- [mng](https://github.com/HWliao/mng) - my angular templates and tools
-- [InDiv](https://github.com/DimaLiLongJi/InDiv) - :trollface:  an angular like web mvvm library.一个类 angular Web mvvm库。https://dimalilongji.github.io/InDiv
-- [ionic-4-components](https://github.com/fivethree-team/ionic-4-components) - 🍕 Ionic 4 UI Component Library. Featuring Image Gallery, Refresher, Bottom Sheet and more.
-- [ngx-waterfall](https://github.com/bsdfzzzy/ngx-waterfall) - A waterfall component implementation for Angular. Continue maintaining.
-- [auto-dragalia](https://github.com/NateScarlet/auto-dragalia) - :dragon_face::iphone:《失落的龙约》 [Auto.js](https://github.com/hyb1996/Auto.js) 辅助脚 本
-- [ionic-navigation-and-routing](https://github.com/ionicthemes/ionic-navigation-and-routing) - 🎉 Ionic 5 tutorial to learn how to master Routing and Navigation in Ionic Angular Apps as well as some usability tricks you can add to your Ionic Framework apps to make them look even better!
-- [ngx-progressive-image-loader](https://github.com/maxisam/ngx-progressive-image-loader) - lazy load img/picture, prevent reflow and seo friendly.
-- [ionic-conference-app](https://github.com/ionic-team/ionic-conference-app) - A conference app built with Ionic to demonstrate Ionic
-- [editor.js](https://github.com/codex-team/editor.js) - A block-styled editor with clean JSON output
-- [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Ru ns locally or headless on AWS Lambda.
-- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
-
-## C
+## C 
 
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 
-## JavaScript
+## C# # 
 
-- [google-translate-cn-api](https://github.com/lqqyt2423/google-translate-cn-api) - node.js 实现谷歌翻译 api，命令行工具 command line
-- [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
-- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
-- [sticky-parallax-header](https://github.com/netguru/sticky-parallax-header) - A simple React Native library, enabling to create a fully custom header for your iOS and Android apps.
-- [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
-- [babel-plugin-parameter-decorator](https://github.com/WarnerHooh/babel-plugin-parameter-decorator) - Function parameter decorator transform plugin for babel v7, just like typescript.
-- [ui-element-samples](https://github.com/GoogleChromeLabs/ui-element-samples) - A collection of prototyped UI elements
-- [FluidTransitions](https://github.com/fram-x/FluidTransitions) - Fluid Transitions for React Navigation
-- [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
-- [sweater](https://github.com/zarkin404/sweater) - 薅 🐑 毛，做衬衫
-- [react-native-web](https://github.com/necolas/react-native-web) - React Native for Web
-- [universalify](https://github.com/RyanZim/universalify) - Make a callback- or promise-based function support both promises and callbacks.
-- [i18n-js](https://github.com/fnando/i18n-js) - It's a small library to provide the I18n translations on the Javascript. It comes with Rails support.
-- [react-native-neomorph-shadows](https://github.com/tokkozhin/react-native-neomorph-shadows) - Shadows and neumorphism/neomorphism for iOS & Android (like iOS).
-- [winston](https://github.com/winstonjs/winston) - A logger for just about everything.
-- [socket.io](https://github.com/socketio/socket.io) - Realtime application framework (Node.JS server)
-- [style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
-- [Gitter](https://github.com/huangjianke/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
-- [color-thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just Javascript.  Works in the browser and in Node.
-- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
-- [DoodleMaster](https://github.com/karanchahal/DoodleMaster) - "Don't code your UI, Draw  it !"
-- [body-scroll-lock](https://github.com/willmcpo/body-scroll-lock) - Body scroll locking that just works with everything 😏
-- [33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
-- [szgame](https://github.com/oxdavid/szgame) - 在游戏里, 您将扮演一位背着巨债的青年, 这位青年为了改变自己的命运, 铤而走险到深圳的黑市里寻找商机, 由于是在 黑市, 所以所有的商品都是非法的, 这些商品的价格每天都不一样, 并且会受各种事件的影响.
-- [jsts](https://github.com/bjornharrtell/jsts) - JavaScript Topology Suite
-- [vant](https://github.com/youzan/vant) - Lightweight Mobile UI Components built on Vue
-- [puppeteer-examples](https://github.com/checkly/puppeteer-examples) - Puppeteer example scripts for running Headless Chrome from Node. Run them at https://puppeteersandbox.com
-- [Mtils2](https://github.com/MisterChangRay/Mtils2) - Mtils是一套前端辅助代码集合，提供常用的数据校验、数据加密、扩展函数、便捷函数。
-- [PhyTouch](https://github.com/AlloyTeam/PhyTouch) - Smooth scrolling, rotation, pull to refresh, page transition and any motion for the web - 丝般顺滑的 触摸运动方案
-- [AjaxDemo](https://github.com/xwjie/AjaxDemo) - 给公司同事和合作方详细讲解ajax的跨域访问的来龙去脉demo
-- [puppeteer-soso](https://github.com/DMQ/puppeteer-soso) - 使用puppeteer搞点事情
-- [learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
-- [AspNetCore2.0SeriesOfCourses](https://github.com/axzxs2001/AspNetCore2.0SeriesOfCourses) - 《asp.net core2.0系列课程》的ptt和Demo的仓库。
-
-## C++
-
-- [Android](https://github.com/Nekogram/Android) - Source code of Nekogram for Android.
-- [nssm](https://github.com/kirillkovalenko/nssm) - Non-Sucking Service Manager
-- [OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
-- [node-images](https://github.com/zhangyuanwei/node-images) - Cross-platform image decoder(png/jpeg/gif) and encoder(png/jpeg) for Nodejs
-
-## C# #
-
+- [Owin.Token.AspNetCore](https://github.com/turgayozgur/Owin.Token.AspNetCore) - .NET Core library to reading OWIN based OAuth tokens.
+- [ApplicationInsights-dotnet](https://github.com/microsoft/ApplicationInsights-dotnet) - ApplicationInsights-dotnet
+- [grpc-dotnet](https://github.com/grpc/grpc-dotnet) - gRPC for .NET
+- [BiliBiliTool](https://github.com/RayWangQvQ/BiliBiliTool) - .Net 5 编写的B站（哔哩哔哩）任务工具，通过GitHub Actions实现每日线上自动运行任务：每日自动登录、观看、分享、投币视频，获取每日任务的满额经验，轻松升级Level 6，实现自动领取大会员权益、月底自动为自己充电等功能。
+- [Hangfire.MaximumConcurrentExecutions](https://github.com/alastairtree/Hangfire.MaximumConcurrentExecutions) - Adds [MaximumConcurrentExecutions(n)] attribute to Hangfire.IO to throttle executions of a job
+- [MassTransit](https://github.com/MassTransit/MassTransit) - Distributed Application Framework for .NET
+- [refit](https://github.com/reactiveui/refit) - The automatic type-safe REST library for .NET Core, Xamarin and .NET. Heavily inspired by Square's Retrofit library, Refit turns your REST API into a live interface.
+- [Sigil](https://github.com/kevin-montrose/Sigil) - A fail-fast validating helper for .NET CIL generation
+- [BiliBili-UWP](https://github.com/Richasy/BiliBili-UWP) - BiliBili的UWP客户端，当然，是第三方的了
+- [nein-linq](https://github.com/axelheer/nein-linq) - NeinLinq provides helpful extensions for using LINQ providers such as Entity Framework that support only a minor subset of .NET functions, reusing functions, rewriting queries, even making them null-safe, and building dynamic queries using translatable predicates and selectors.
+- [coravel](https://github.com/jamesmh/coravel) - Near-zero config .NET Core micro-framework that makes advanced application features like Task Scheduling, Caching, Queuing, Event Broadcasting, and more a breeze!
+- [AsyncEvents](https://github.com/noseratio/AsyncEvents) - C# events as asynchronous streams using System.Threading.Channels
 - [gifski-win](https://github.com/MatheusAvellar/gifski-win) - 🌈 Convert videos to high-quality GIFs on your PC
 - [ZString](https://github.com/Cysharp/ZString) - Zero Allocation StringBuilder for .NET Core and Unity.
 - [serilog-sinks-http](https://github.com/FantasticFiasco/serilog-sinks-http) - A Serilog sink sending log events over HTTP.
@@ -123,9 +50,8 @@
 - [cecil](https://github.com/jbevain/cecil) - Cecil is a library to inspect, modify and create .NET programs and libraries.
 - [kotlin-net](https://github.com/wmeints/kotlin-net) - Kotlin compiler for the CLR
 - [server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
-- [NSwag](https://github.com/RicoSuter/NSwag) - The Swagger/OpenAPI toolchain for .NET, ASP.NET Core and TypeScript.
-- [Pixeval](https://github.com/Rinacm/Pixeval) - A Strong, Fast and Flexible Pixiv Client based on .NET Core and WPF
-- [AsyncAwaitBestPractices](https://github.com/brminnick/AsyncAwaitBestPractices) - Extensions for System.Threading.Tasks.Task
+- [Pixeval](https://github.com/dylech30th/Pixeval) - A Strong, Fast and Flexible Pixiv Client based on .NET Core and WPF
+- [AsyncAwaitBestPractices](https://github.com/brminnick/AsyncAwaitBestPractices) - Extensions for System.Threading.Tasks.Task and System.Threading.Tasks.ValueTask
 - [runtime](https://github.com/dotnet/runtime) - .NET is a cross-platform runtime for cloud, mobile, desktop, and IoT apps.
 - [serilog-aspnetcore](https://github.com/serilog/serilog-aspnetcore) - Serilog integration for ASP.NET Core
 - [Mapster](https://github.com/MapsterMapper/Mapster) - A fast, fun and stimulating object to object Mapper
@@ -137,7 +63,6 @@
 - [Captura](https://github.com/MathewSachin/Captura) - Capture Screen, Audio, Cursor, Mouse Clicks and Keystrokes
 - [graphql-dotnet](https://github.com/graphql-dotnet/graphql-dotnet) - GraphQL for .NET
 - [ant-design-blazor](https://github.com/ant-design-blazor/ant-design-blazor) - 🌈A set of enterprise-class UI components based on Ant Design and Blazor WebAssembly.
-- [Orleans.Streams.Kafka](https://github.com/jonathansant/Orleans.Streams.Kafka) - An implementation of a PersistentStreamProvider for Microsoft Orleans and Kafka using the Confluent API
 - [BedrockFramework](https://github.com/davidfowl/BedrockFramework) - High performance, low level networking APIs for building custom servers and clients.
 - [C-Sharp-Promise](https://github.com/Real-Serious-Games/C-Sharp-Promise) - Promises library for C# for management of asynchronous operations.
 - [Fluent-State-Machine](https://github.com/Real-Serious-Games/Fluent-State-Machine) - Fluent API for creating state machines in C#
@@ -155,7 +80,6 @@
 - [dotNext](https://github.com/sakno/dotNext) - Next generation API for .NET
 - [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - If you want to keep a secret, you must also hide it from yourself.
 - [pixivfs-uwp](https://github.com/tobiichiamane/pixivfs-uwp) - A Pixiv client for UWP users
-- [PixivGo](https://github.com/0xFlag/PixivGo) - C#: Pixiv插画，预览下载，批量下载，关键词搜索，不用梯子
 - [AsyncEnumerable](https://github.com/Dasync/AsyncEnumerable) - Defines IAsyncEnumerable, IAsyncEnumerator, ForEachAsync(), ParallelForEachAsync(), and other useful stuff to use with async-await
 - [EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts
 - [standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
@@ -163,27 +87,26 @@
 - [Avalonia](https://github.com/AvaloniaUI/Avalonia) - Avalonia is a cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows via .NET Framework and .NET Core, Linux via Xorg, macOS
 - [JsonJitSerializer](https://github.com/Martin1994/JsonJitSerializer) - A JIT JSON Serializer for .NET Core 3.0
 - [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
-- [Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) - 导入导出通用库，支持Dto导入导出以及动态导出，支持Excel、Csv、Word、Pdf和Html。
-- [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store, in C# and C++, from Microsoft Research.
+- [Magicodes.IE](https://github.com/dotnetcore/Magicodes.IE) - 导入导出通用库，支持Dto导入导出、模板导出、花式导出以及动态导出，支持Excel、Csv、Word、Pdf和Html。Import and export general library, support Dto import and export, template export, fancy export and dynamic export, support Excel, Csv, Word, Pdf and Html.
+- [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++.
 - [EasyHttpClient](https://github.com/Winson-Ng/EasyHttpClient) - C# HttpClient Library
 - [BanBrick.TypeScript.CodeGenerator](https://github.com/JiarongGu/BanBrick.TypeScript.CodeGenerator) - C# to TypeScript Code Generator Libarary for WebApi
 - [Deque](https://github.com/tejacques/Deque) - A C# Deque class
 - [orleans](https://github.com/dotnet/orleans) - Orleans is a cross-platform framework for building distributed applications with .NET
 - [AspNetCore.Proxy](https://github.com/twitchax/AspNetCore.Proxy) - ASP.NET Core Proxies made easy.
 - [meepo](https://github.com/GowenGit/meepo) - .NET Core duplex framework using sockets
-- [Architecture](https://github.com/rafaelfgx/Architecture) - Architecture using .NET Core 3.1, ASP.NET Core 3.1, Entity Framework Core 3.1, C#, Angular 10, Clean Code, SOLID, DDD, Code Analysis, Docker and more.
+- [Architecture](https://github.com/rafaelfgx/Architecture) - Architecture .NET 5, ASP.NET Core 5, Entity Framework Core 5, C# 9, Angular 11, Clean Code, SOLID, DDD.
 - [RollbackableOperations](https://github.com/CallStackRunner/RollbackableOperations) - A .NET library for operations execution/rollback management
 - [Sprache](https://github.com/sprache/Sprache) - A tiny, friendly, C# parser construction library
-- [ExcelDataReader](https://github.com/ExcelDataReader/ExcelDataReader) - Lightweight and fast library written in C# for reading Microsoft Excel files
 - [RestAirline](https://github.com/twzhangyang/RestAirline) - DDD+CQRS+EventSourcing+Hypermedia API+ASP.NET Core 3.1+Masstransit+terraform+docker+k8s
 - [MessagePack-CSharp](https://github.com/neuecc/MessagePack-CSharp) - Extremely Fast MessagePack Serializer for C#(.NET, .NET Core, Unity, Xamarin). / msgpack.org[C#]
 - [MarkdownGenerator](https://github.com/neuecc/MarkdownGenerator) - Generate markdown from C# binary & xml document for GitHub Wiki.
-- [dnSpy](https://github.com/0xd4d/dnSpy) - .NET debugger and assembly editor
+- [dnSpy](https://github.com/dnSpy/dnSpy) - .NET debugger and assembly editor
 - [querybuilder](https://github.com/sqlkata/querybuilder) - SQL query builder, written in c#, helps you build complex queries easily, supports SqlServer, MySql, PostgreSql, Oracle, Sqlite and Firebird
 - [AspNetCoreRateLimit](https://github.com/stefanprodan/AspNetCoreRateLimit) - ASP.NET Core rate limiting middleware
 - [ProxyKit](https://github.com/ProxyKit/ProxyKit) - A toolkit to create code-first HTTP reverse proxies on ASP.NET Core
 - [AspNetCore.Rendertron](https://github.com/galamai/AspNetCore.Rendertron) - ASP.net core middleware for GoogleChrome Rendertron https://github.com/GoogleChrome/rendertron.
-- [BiliCommenter](https://github.com/AlaricGilbert/BiliCommenter) - A tool with gui that helps you grab the front row in new uploaded animates. - 哔哩哔哩 新番抢楼机
+- [BiliCommenter](https://github.com/AlaricGilbert/BiliCommenter) - A tool with gui that helps you grab the front row in new uploaded animates. - 哔哩哔哩新番抢楼机
 - [nbuilder](https://github.com/nbuilder/nbuilder) - Rapid generation of test objects in .NET
 - [FlubuCore](https://github.com/dotnetcore/FlubuCore) - A cross platform build and deployment automation system for building projects and executing deployment scripts using C# code.
 - [Flurl](https://github.com/tmenier/Flurl) - Fluent URL builder and testable HTTP client for .NET
@@ -197,8 +120,8 @@
 - [AspNetWebStack](https://github.com/aspnet/AspNetWebStack) - ASP.NET MVC 5.x, Web API 2.x, and Web Pages 3.x (not ASP.NET Core)
 - [Polly](https://github.com/App-vNext/Polly) - Polly is a .NET resilience and transient-fault-handling library that allows developers to express policies such as Retry, Circuit Breaker, Timeout, Bulkhead Isolation, and Fallback in a fluent and thread-safe manner. From version 6.0.1, Polly targets .NET Standard 1.1 and 2.0+.
 - [GeoIP2-dotnet](https://github.com/maxmind/GeoIP2-dotnet) - MaxMind GeoIP2 .NET API
-- [EduAsync](https://github.com/SergeyTeplyakov/EduAsync) -
-- [IntelliSun](https://github.com/MatanShahar/IntelliSun) -
+- [EduAsync](https://github.com/SergeyTeplyakov/EduAsync) - 
+- [IntelliSun](https://github.com/MatanShahar/IntelliSun) - 
 - [SimplCommerce](https://github.com/simplcommerce/SimplCommerce) - A simple, cross platform, modularized ecommerce system built on .NET Core
 - [EventFlow](https://github.com/eventflow/EventFlow) - Async/await first CQRS+ES and DDD framework for .NET
 - [extensions](https://github.com/dotnet/extensions) - .NET APIs for commonly used programming patterns and utilities, such as dependency injection, logging, and configuration.
@@ -217,8 +140,8 @@
 - [aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
 - [FluentHttpClient](https://github.com/Pathoschild/FluentHttpClient) - A modern async HTTP client for REST APIs. Its fluent interface lets you send an HTTP request and parse the response in one go.
 - [akka.net](https://github.com/akkadotnet/akka.net) - Port of Akka actors for .NET
-- [Swashbuckle](https://github.com/domaindrivendev/Swashbuckle) - Seamlessly adds a swagger to WebApi projects!
-- [FluentIL](https://github.com/FluentIL/FluentIL) -
+- [Swashbuckle.WebApi](https://github.com/domaindrivendev/Swashbuckle.WebApi) - Seamlessly adds a swagger to WebApi projects!
+- [FluentIL](https://github.com/FluentIL/FluentIL) - 
 - [GofForCSharp](https://github.com/steveleeCN87/GofForCSharp) - Implementation of 23 design patterns c#
 - [AspNetKatana](https://github.com/aspnet/AspNetKatana) - Microsoft's OWIN implementation, the Katana project
 - [Carter](https://github.com/CarterCommunity/Carter) - Carter is framework that is a thin layer of extension methods and functionality over ASP.NET Core allowing code to be more explicit and most importantly more enjoyable.
@@ -235,58 +158,120 @@
 - [cecil](https://github.com/mono/cecil) - Cecil is a library to generate and inspect programs and libraries in the ECMA CIL form.
 - [WebApiClient](https://github.com/dotnetcore/WebApiClient) - An open source project based on the HttpClient. You only need to define the c# interface and modify the related features to invoke the client library of the remote http interface asynchronously.
 - [workflow-core](https://github.com/danielgerlag/workflow-core) - Lightweight workflow engine for .NET Standard
-- [Natasha](https://github.com/dotnetcore/Natasha) - 基于 Roslyn 的 C# 动态程序集构建库，该库允许开发者在运行时使用 C# 代码构建域 / 程序集 / 类 / 结构体 / 枚举 / 接口 / 方法等，使得程序在运行的时候可以增加新的模块及功能。Natasha 集成了域管理/插件管理，可以实现域隔离，域卸载，热拔插等功能。 该库遵循完整的编译 流程，提供完整的错误提示， 可自动添加引用，完善的数据结构构建模板让开发者只专注于程序集脚本的编写，兼容 stanadard2.0 / netcoreapp3.0+, 跨平台，统一、简便的链式 API。 且我们会尽快修复您的问题及回复您的 issue.
-- [surging](https://github.com/fanliang11/surging) - Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline. The service engine supports http, TCP, WS,Grpc, Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm, built-in service governance to ensure reliable RPC communication, the engine contains Diagnostic, link tracking for protocol and middleware calls, and integration SkyWalking Distributed APM
-- [quartzui](https://github.com/zhaopeiym/quartzui) - 基于Quartz.NET3.0的定时任务Web可视化管理。docker打包开箱即用、内置SQLite持久化、语言无关、业务代码零 污染、支持 RESTful风格接口、傻瓜式配置
+- [Natasha](https://github.com/dotnetcore/Natasha) - 基于 Roslyn 的 C# 动态程序集构建库，该库允许开发者在运行时使用 C# 代码构建域 / 程序集 / 类 / 结构体 / 枚举 / 接口 / 方法等，使得程序在运行的时候可以增加新的模块及功能。Natasha 集成了域管理/插件管理，可以实现域隔离，域卸载，热拔插等功能。 该库遵循完整的编译流程，提供完整的错误提示， 可自动添加引用，完善的数据结构构建模板让开发者只专注于程序集脚本的编写，兼容 stanadard2.0 / netcoreapp3.0+, 跨平台，统一、简便的链式 API。 且我们会尽快修复您的问题及回复您的 issue.
+- [surging](https://github.com/fanliang11/surging) - Surging is a micro-service engine that provides a lightweight, high-performance, modular RPC request pipeline. The service engine supports http, TCP, WS,Grpc, Thrift,Mqtt, UDP, and DNS protocols. It uses ZooKeeper and Consul as a registry, and integrates it. Hash, random, polling, Fair Polling as a load balancing algorithm, built-in service governance to ensure reliable RPC communication, the engine contains Diagnostic, link tracking for protocol and middleware calls, and integration SkyWalking Distributed APM
 - [ImageProcessor](https://github.com/JimBobSquarePants/ImageProcessor) - :camera: A fluent wrapper around System.Drawing for the processing of image files.
 - [StackExchange.Redis](https://github.com/StackExchange/StackExchange.Redis) - General purpose redis client
-- [shriek-fx](https://github.com/Shriek-Projects/shriek-fx) - 【WIP】️一个基于 .NET Core 2.0 开发的简单易用的快速开发框架，遵循领域驱动设计（DDD）规范约束，并结合CQRS架构提供实现事件驱动、事件回溯、响应式等特性的基础设施。让开发者享受到正真意义的面向对象设计模式来带的美感。
-- [quartznet](https://github.com/quartznet/quartznet) - Quartz Enterprise Scheduler .NET
+- [shriek-fx](https://github.com/Shriek-Projects/shriek-fx) - An easy-to-use rapid development framework developed on the basis of.NET Core 2.0, following the constraints of domain Driven Design (DDD) specifications, combined with the CQRS architecture to provide the infrastructure for event-driven, event backtracking, responsiveness, and more. Let developers enjoy the true meaning of object-oriented design patterns brought by the aesthetic.
 - [GracefulTear](https://github.com/dotnetcore-internal/GracefulTear) - An open source common PMS based on IdentityServer 4 proudly developed by Community Development Team of NCC.
 - [CAP](https://github.com/dotnetcore/CAP) - Distributed transaction solution in micro-service base on eventually consistency, also an eventbus with Outbox pattern
 - [Dapper](https://github.com/StackExchange/Dapper) - Dapper - a simple object mapper for .Net
 - [CachingFramework.Redis](https://github.com/thepirat000/CachingFramework.Redis) - Distributed caching based on StackExchange.Redis and Redis. Includes support for tagging and is cluster-compatible.
-- [Mvc](https://github.com/aspnet/Mvc) - [Archived] ASP.NET Core MVC is a model view controller framework for building dynamic web sites with clean separation of concerns, including the merged MVC, Web API, and Web Pages w/ Razor. Project moved to https://github.com/aspnet/AspNetCore
 - [QuartzNetJob](https://github.com/ice-ko/QuartzNetJob) - Asp.Net Core 2.0 后端任务管理
-- [NanoFabric](https://github.com/geffzhang/NanoFabric) - 基于Consul + .NET Core + Polly + Ocelot + Exceptionless + IdentityServer等开源项目的微服务开发框 架
+- [NanoFabric](https://github.com/geffzhang/NanoFabric) - 基于Consul + .NET Core + Polly + Ocelot + Exceptionless + IdentityServer等开源项目的微服务开发框架
 - [Common.Utility](https://github.com/Jimmey-Jiang/Common.Utility) - Various helper class
 - [AspectCore-Framework](https://github.com/dotnetcore/AspectCore-Framework) - AspectCore is an AOP-based cross platform framework for .NET Standard.
-- [Util](https://github.com/dotnetcore/Util) - Util是一个.net core平台下的应用框架，旨在提升小型团队的开发输出能力，由常用公共操作类(工具类)、分层架构基类 、Ui组件，第三方组件封装，第三方业务接口封装，配套代码生成模板，权限等组成。
+- [Util](https://github.com/dotnetcore/Util) - Util是一个.net core平台下的应用框架，旨在提升小型团队的开发输出能力，由常用公共操作类(工具类)、分层架构基类、Ui组件，第三方组件封装，第三方业务接口封装，配套代码生成模板，权限等组成。
 - [TinyPinyin.Net](https://github.com/hstarorg/TinyPinyin.Net) - 适用于.Net平台的快速、低内存占用的汉字转拼音库。核心算法来自TinyPinyin(https://github.com/promeG/TinyPinyin)
 - [AspNetCore.Docs](https://github.com/dotnet/AspNetCore.Docs) - Documentation for ASP.NET Core
 - [Demos](https://github.com/catcherwong/Demos) - :100:Some demos for learning
-- [SSCore](https://github.com/forrestly/SSCore) - dotnet core version of SuperSocket
 - [Swashbuckle.AspNetCore](https://github.com/domaindrivendev/Swashbuckle.AspNetCore) - Swagger tools for documenting API's built on ASP.NET Core
 
-## Java
+## C++ 
 
-- [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
+- [nssm](https://github.com/kirillkovalenko/nssm) - Non-Sucking Service Manager
+- [OpenCC](https://github.com/BYVoid/OpenCC) - Conversion between Traditional and Simplified Chinese
+
+## CSS 
+
+- [arknights-ui](https://github.com/mashirozx/arknights-ui) - H5 复刻版明日方舟游戏主界面
+- [PageTransitions](https://github.com/codrops/PageTransitions) - A showcase collection of various page transition effects using CSS animations.
+- [Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme _ Basic theme :  SimpleMemory
+- [mvvm](https://github.com/DMQ/mvvm) - 剖析vue实现原理，自己动手实现mvvm
+
+## Dockerfile 
+
+- [dotnet-docker](https://github.com/dotnet/dotnet-docker) - Docker images for .NET Core and the .NET Core Tools.
+
+## Go 
+
+- [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
+
+## HTML 
+
+- [blog](https://github.com/lawler61/blog) - Lawler's Blog 不定期分享一些前端技术
+- [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
+- [css](https://github.com/januwA/css) - css
+- [CSSgram](https://github.com/una/CSSgram) - CSS library for Instagram filters
+- [cnblogs-theme-silence](https://github.com/esofar/cnblogs-theme-silence) - 📖 一款专注于阅读的博客园主题
+- [http-api-design-ZH_CN](https://github.com/ZhangBohan/http-api-design-ZH_CN) - HTTP API 设计指南(http-api-design-ZH_CN)，翻译自https://github.com/interagent/http-api-design
+- [node-blog](https://github.com/liuxing/node-blog) - :rocket:《Node.js从入门到上线》A blog build with Koa2.
+- [Alipay.Demo.PCPayment](https://github.com/stulzq/Alipay.Demo.PCPayment) - 支付宝PC网站支付、扫码支付 演示项目，实现支付、支付同步回调、支付异步通知、订单查询、退款、退款查询、订单关闭、扫码支付功能。采用支付宝服务端SDK：Alipay.AopSdk.Core，使用ASP.NET Core MVC 。
+
+## Java 
+
 - [react-native-screens](https://github.com/software-mansion/react-native-screens) - Native navigation primitives for your React Native app.
 - [antlr4](https://github.com/antlr/antlr4) - ANTLR (ANother Tool for Language Recognition) is a powerful parser generator for reading, processing, executing, or translating structured text or binary files.
 - [Pix-EzViewer](https://github.com/Notsfsssf/Pix-EzViewer) - 一个支持免代理直连及查看动图的第三方Pixiv android客户端
 - [Auto.js](https://github.com/hyb1996/Auto.js) - A UiAutomator on android, does not need root access(安卓平台上的JavaScript自动化工具)
 - [CS-Notes](https://github.com/CyC2018/CS-Notes) - :books: 技术面试必备基础知识、Leetcode、计算机操作系统、计算机网络、系统设计、Java、Python、C++
-- [feign](https://github.com/OpenFeign/feign) - Feign makes writing java http clients easier
-- [spring-cloud-examples](https://github.com/ityouknow/spring-cloud-examples) - Spring Cloud 学习案例，服务发现、服务治理、链路追踪、服务监控等
-- [springcloud-sample-projects](https://github.com/cd826/springcloud-sample-projects) - Spring cloud sample projects
 
-## HTML
+## JavaScript 
 
-- [awesome-compose](https://github.com/docker/awesome-compose) - Awesome Docker Compose samples
-- [css](https://github.com/januwA/css) - css
-- [CSSgram](https://github.com/una/CSSgram) - CSS library for Instagram filters
-- [http-api-design-ZH_CN](https://github.com/ZhangBohan/http-api-design-ZH_CN) - HTTP API 设计指南(http-api-design-ZH_CN)，翻译自https://github.com/interagent/http-api-design
-- [node-blog](https://github.com/liuxing/node-blog) - :rocket:《Node.js从入门到上线》A blog build with Koa2.
-- [Alipay.Demo.PCPayment](https://github.com/stulzq/Alipay.Demo.PCPayment) - 支付宝PC网站支付、扫码支付 演示项目，实现支付、支付同步回调、支付异步通知、订 单查询、退款、退款查询、订单关闭、扫码支付功能。采用支付宝服务端SDK：Alipay.AopSdk.Core，使用ASP.NET Core MVC 。
+- [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
+- [react-native-web-webview](https://github.com/react-native-web-community/react-native-web-webview) - React Native for Web implementation of RN's WebView
+- [RainEffect](https://github.com/codrops/RainEffect) - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
+- [babel-plugin-tsconfig-paths](https://github.com/Js-Brecht/babel-plugin-tsconfig-paths) - Resolve imports/requires based on path aliases in tsconfig.json
+- [customize-cra](https://github.com/arackaf/customize-cra) - Override webpack configurations for create-react-app 2.0
+- [material-ui](https://github.com/mui-org/material-ui) - React components for faster and simpler web development. Build your own design system, or start with Material Design.
+- [react-virtual-scroller](https://github.com/liximomo/react-virtual-scroller) - A react implementation of twitter VirtualScroller.
+- [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
+- [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
+- [eh-parser](https://github.com/Chocolatl/eh-parser) - 解析E站各个页面的元数据
+- [react-native-masonry](https://github.com/brh55/react-native-masonry) - :raised_hands:  A pure JS react-native component to render a masonry~ish layout for images with support for dynamic columns, progressive image loading, device rotation, on-press handlers, and headers/captions.
+- [react-native-raw-bottom-sheet](https://github.com/nysamnang/react-native-raw-bottom-sheet) - Add Your Own Component To Bottom Sheet Whatever You Want (Android and iOS)
+- [react-native-ui-lib](https://github.com/wix/react-native-ui-lib) - UI Components Library for React Native
+- [react-native-textinput-effects](https://github.com/halilb/react-native-textinput-effects) - Text inputs with custom label and icon animations for iOS and android. Built with react native and inspired by Codrops.
+- [google-translate-cn-api](https://github.com/lqqyt2423/google-translate-cn-api) - node.js 实现谷歌翻译 api，命令行工具 command line
+- [gatsby](https://github.com/gatsbyjs/gatsby) - Build blazing fast, modern apps and websites with React
+- [three.js](https://github.com/mrdoob/three.js) - JavaScript 3D library.
+- [sticky-parallax-header](https://github.com/netguru/sticky-parallax-header) - A simple React Native library, enabling to create a fully custom header for your iOS and Android apps.
+- [SwitchHosts](https://github.com/oldj/SwitchHosts) - Switch hosts quickly!
+- [babel-plugin-parameter-decorator](https://github.com/WarnerHooh/babel-plugin-parameter-decorator) - Function parameter decorator transform plugin for babel v7, just like typescript.
+- [ui-element-samples](https://github.com/GoogleChromeLabs/ui-element-samples) - A collection of prototyped UI elements
+- [FluidTransitions](https://github.com/fram-x/FluidTransitions) - Fluid Transitions for React Navigation
+- [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
+- [react-native-web](https://github.com/necolas/react-native-web) - React Native for Web
+- [universalify](https://github.com/RyanZim/universalify) - Make a callback- or promise-based function support both promises and callbacks.
+- [react-native-neomorph-shadows](https://github.com/tokkozhin/react-native-neomorph-shadows) - Shadows and neumorphism/neomorphism for iOS & Android (like iOS).
+- [winston](https://github.com/winstonjs/winston) - A logger for just about everything.
+- [style2paints](https://github.com/lllyasviel/style2paints) - sketch + style = paints :art: (TOG2018/SIGGRAPH2018ASIA)
+- [Gitter](https://github.com/kokohuang/Gitter) - Gitter for GitHub - 可能是目前颜值最高的GitHub微信小程序客户端
+- [color-thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just Javascript.  Works in the browser and in Node.
+- [NeteaseCloudMusicApi](https://github.com/Binaryify/NeteaseCloudMusicApi) - 网易云音乐 Node.js API service
+- [DoodleMaster](https://github.com/karanchahal/DoodleMaster) - "Don't code your UI, Draw  it !"
+- [body-scroll-lock](https://github.com/willmcpo/body-scroll-lock) - Body scroll locking that just works with everything 😏
+- [33-js-concepts](https://github.com/stephentian/33-js-concepts) - :scroll: 每个 JavaScript 工程师都应懂的33个概念 @leonardomso
+- [jsts](https://github.com/bjornharrtell/jsts) - JavaScript Topology Suite
+- [puppeteer-examples](https://github.com/checkly/puppeteer-examples) - Puppeteer example scripts for running Headless Chrome from Node.
+- [Mtils2](https://github.com/MisterChangRay/Mtils2) - Mtils是一套前端辅助代码集合，提供常用的数据校验、数据加密、扩展函数、便捷函数。
+- [PhyTouch](https://github.com/AlloyTeam/PhyTouch) - Smooth scrolling, rotation, pull to refresh, page transition and any motion for the web - 丝般顺滑的触摸运动方案
+- [puppeteer-soso](https://github.com/DMQ/puppeteer-soso) - 使用puppeteer搞点事情
+- [learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
 
-## Shell
+## Lua 
 
-- [docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
-- [standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
-- [core](https://github.com/dotnet/core) - Home repository for .NET Core
+- [chouxianghua](https://github.com/chenxuuu/chouxianghua) - 🤡‍🐘🌸‍抽象话生成器网页/tg版，一键生成抽象话
 
-## Others
+## Objective-C 
 
+- [react-native-navigation](https://github.com/wix/react-native-navigation) - A complete native navigation solution for React Native
+- [AFShop](https://github.com/xiaoyafei/AFShop) - 一个开源的iOS电商APP，持续更新
+
+## Others 
+
+- [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
+- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [weekly](https://github.com/dt-fe/weekly) - 前端精读周刊
 - [computerese-cross-references](https://github.com/EarsEyesMouth/computerese-cross-references) - 计算机专业术语中英文对照。
@@ -297,47 +282,88 @@
 - [cppworld](https://github.com/langyo/cppworld) - [WIP]《这是 C++ 的世界！》电子书仓库
 - [hosts](https://github.com/googlehosts/hosts) - 镜像：https://scaffrey.coding.net/p/hosts/git / https://git.qvq.network/googlehosts/hosts
 - [Bilibili-Live-API](https://github.com/lovelyyoshino/Bilibili-Live-API) - BILIBILI 直播/番剧 API
-- [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2019
+- [AspNetCore-Developer-Roadmap](https://github.com/MoienTajik/AspNetCore-Developer-Roadmap) - Roadmap to becoming an ASP.NET Core developer in 2021
 - [architect-awesome](https://github.com/xingshaocheng/architect-awesome) - 后端架构师技术图谱
 - [awesome-vue](https://github.com/vuejs/awesome-vue) - 🎉 A curated list of awesome things related to Vue.js
 
-## Python
+## Python 
 
+- [BiliDrive](https://github.com/Hsury/BiliDrive) - ☁️ 哔哩云，不支持任意文件的全速上传与下载
 - [12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
 - [pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python
 - [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
-- [ISML_auto_voter](https://github.com/Hecate2/ISML_auto_voter) - Carillons as the best web spiders; Long live the golden years of leprechauns!
-- [ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人 号机器人。
+- [Ignareo-ISML-auto-voter](https://github.com/Hecate2/Ignareo-ISML-auto-voter) - Ignareo the Carillon, a web spider engine of ultimate concurrency built for leprechauns. Carillons as the best web spiders; Long live the golden years of leprechauns!
+- [ItChat](https://github.com/littlecodersh/ItChat) - A complete and graceful API for Wechat. 微信个人号接口、微信机器人及命令行微信，三十行即可自定义个人号机器人。
 
-## Lua
+## Shell 
 
-- [chouxianghua](https://github.com/chenxuuu/chouxianghua) - 🤡‍🐘🌸‍抽象话生成器网页/tg版，一键生成抽象话
+- [docker-elk](https://github.com/deviantony/docker-elk) - The Elastic stack (ELK) powered by Docker and Compose.
+- [standard-readme](https://github.com/RichardLitt/standard-readme) - A standard style for README files
+- [core](https://github.com/dotnet/core) - Home repository for .NET Core
 
-## Standard ML
+## Standard ML 
 
 - [Dress](https://github.com/komeiji-satori/Dress) - 好耶  是女装
 
-## Objective-C
+## TypeScript 
 
-- [AFShop](https://github.com/xiaoyafei/AFShop) - 一个开源的iOS电商APP，持续更新
+- [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
+- [add-event-to-calendar](https://github.com/vborodulin/add-event-to-calendar) - Generate invitation calendar link. Supported services are Google Calendar, Microsoft Outlook, and Yahoo! Calendar (Apple Calendar and download .ics are done through the iCal format).
+- [progress-react-native](https://github.com/hngocl/progress-react-native) - Progress using react native reanimated and svg
+- [react-native-web-image-loader](https://github.com/peter-jozsa/react-native-web-image-loader) - A webpack image loader for react-native-web
+- [formik](https://github.com/formium/formik) - Build forms in React, without the tears 😭
+- [tsconfig-paths-webpack-plugin](https://github.com/dividab/tsconfig-paths-webpack-plugin) - Load modules according to tsconfig paths in webpack.
+- [react-admin](https://github.com/marmelab/react-admin) - A frontend Framework for building B2B applications running in the browser on top of REST/GraphQL APIs, using ES6, React and Material Design
+- [react-use-gesture](https://github.com/pmndrs/react-use-gesture) - 👇Bread n butter utility for component-tied mouse/touch gestures in React
+- [react-spring](https://github.com/pmndrs/react-spring) - ✌️ A spring physics based React animation library
+- [timeago.js](https://github.com/hustcc/timeago.js) - :clock8: :hourglass: timeago.js is a tiny(2.0 kb) library used to format date with `*** time ago` statement.
+- [react-native-collapsible-header-views](https://github.com/iyegoroff/react-native-collapsible-header-views) - ScrollView, FlatList, SectionList with collapsible headers + HOC for wrapping custom scrollables
+- [docusaurus](https://github.com/facebook/docusaurus) - Easy to maintain open source documentation websites.
+- [react-native-reanimated-bottom-sheet](https://github.com/osdnk/react-native-reanimated-bottom-sheet) - Highly configurable bottom sheet component made with react-native-reanimated and react-native-gesture-handler
+- [ext-saladict](https://github.com/crimx/ext-saladict) - All-in-one professional pop-up dictionary and page translator which supports multiple search modes, page translations, new word notebook and PDF selection searching.
+- [tiny-react-with-hooks](https://github.com/waynecz/tiny-react-with-hooks) - ⚛︎ Fundamental Implementation of React with Hooks & VDOM
+- [react-native-bottom-sheet](https://github.com/gorhom/react-native-bottom-sheet) - A performant interactive bottom sheet with fully configurable options 🚀
+- [react-native-image-viewing](https://github.com/jobtoday/react-native-image-viewing) - Tiny, purely TS, modal component for viewing images 🏙
+- [path-to-regexp](https://github.com/pillarjs/path-to-regexp) - Turn a path string such as `/user/:name` into a regular expression
+- [fluentui](https://github.com/microsoft/fluentui) - Fluent UI web represents a collection of utilities, React components, and web components for building web applications.
+- [react-native-paper](https://github.com/callstack/react-native-paper) - Material Design for React Native (Android & iOS)
+- [ttypescript](https://github.com/cevek/ttypescript) - Over TypeScript tool to use custom transformers in the tsconfig.json
+- [ts-transformer-keys](https://github.com/kimamula/ts-transformer-keys) - A TypeScript custom transformer which enables to obtain keys of given type
+- [ts-retrofit](https://github.com/nullcc/ts-retrofit) - A declarative and axios based retrofit implementation for JavaScript and TypeScript.
+- [react-native-iconfont-cli](https://github.com/iconfont-cli/react-native-iconfont-cli) - 把iconfont.cn的图标转换成标准RN组件，不依赖字体，支持多色彩，支持热更新
+- [ng2-pdf-viewer](https://github.com/VadimDez/ng2-pdf-viewer) - 📄 PDF Viewer Component for Angular 5+
+- [docz](https://github.com/doczjs/docz) - ✍ It has never been so easy to document your things!
+- [DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
+- [can-it-be-done-in-react-native](https://github.com/wcandillon/can-it-be-done-in-react-native) - ⚛️ 📺 Projects from the “Can it be done in React Native?” YouTube series
+- [universal-nest](https://github.com/TrilonIO/universal-nest) - Nest + Angular Universal = ❤️ by @TrilonIO
+- [reflect-metadata](https://github.com/rbuckton/reflect-metadata) - Prototype for a Metadata Reflection API for ECMAScript
+- [DynamicMapper](https://github.com/DynamicMapper/DynamicMapper) - Object to object mapping in JavaScript
+- [loopback-next](https://github.com/strongloop/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
+- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
+- [stencil](https://github.com/ionic-team/stencil) - A Web Component compiler for building fast, reusable UI components and static site generated Progressive Web Apps
+- [vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
+- [better-scroll](https://github.com/ustbhuangyi/better-scroll) - :scroll: inspired by iscroll, and it supports more features and has a better scroll perfermance
+- [angular-ngrx-material-starter](https://github.com/tomastrajan/angular-ngrx-material-starter) - Angular, NgRx, Angular CLI & Angular Material Starter Project
+- [ionic4-boilerplate](https://github.com/pengkobe/ionic4-boilerplate) - :rocket: boilerplate for ionic4 with CI based on travis and fastlane. doc and example are provided
+- [mng](https://github.com/HWliao/mng) - my angular templates and tools
+- [InDiv](https://github.com/DimaLiLongJi/InDiv) - :trollface:  an angular like web mvvm library.一个类 angular Web mvvm库。https://dimalilongji.github.io/InDiv
+- [ionic-4-components](https://github.com/fivethree-team/ionic-4-components) - 🍕 Ionic 4 UI Component Library. Featuring Image Gallery, Refresher, Bottom Sheet and more.
+- [ngx-waterfall](https://github.com/bsdfzzzy/ngx-waterfall) - A waterfall component implementation for Angular. Continue maintaining.
+- [auto-dragalia](https://github.com/NateScarlet/auto-dragalia) - :dragon_face::iphone:《失落的龙约》 [Auto.js](https://github.com/hyb1996/Auto.js) 辅助脚本
+- [ionic-navigation-and-routing](https://github.com/ionicthemes/ionic-navigation-and-routing) - 🎉 Ionic 5 tutorial to learn how to master Routing and Navigation in Ionic Angular Apps as well as some usability tricks you can add to your Ionic Framework apps to make them look even better!
+- [ngx-progressive-image-loader](https://github.com/maxisam/ngx-progressive-image-loader) - lazy load img/picture, prevent reflow and seo friendly.
+- [ionic-conference-app](https://github.com/ionic-team/ionic-conference-app) - A conference app built with Ionic to demonstrate Ionic
+- [chromeless](https://github.com/prisma-archive/chromeless) - 🖥  Chrome automation made simple. Runs locally or headless on AWS Lambda.
+- [puppeteer](https://github.com/puppeteer/puppeteer) - Headless Chrome Node.js API
 
-## CSS
-
-- [arknights-ui](https://github.com/mashirozx/arknights-ui) - H5 复刻版明日方舟游戏主界面
-- [PageTransitions](https://github.com/codrops/PageTransitions) - A showcase collection of various page transition effects using CSS animations.
-- [cnblogs-theme-silence](https://github.com/esofar/cnblogs-theme-silence) - :fire:  一款专注于阅读的博客园主题
-- [Cnblogs-Theme-SimpleMemory](https://github.com/BNDong/Cnblogs-Theme-SimpleMemory) - 🍭　Cnblogs theme _ Basic theme :  SimpleMemory
-- [mini-antui](https://github.com/ant-mini-program/mini-antui) - mini-antui 停止维护，可使用 mini-ali-ui ，品牌升级，功能加强，欢迎使用！
-- [mvvm](https://github.com/DMQ/mvvm) - 剖析vue实现原理，自己动手实现mvvm
-
-## Vim script
+## Vim script 
 
 - [Pixiv-Nginx](https://github.com/mashirozx/Pixiv-Nginx) - P站（Pixiv）的正确打开方式
 
-## Vue
+## Vue 
 
 - [iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
-- [vue-multiple-pages](https://github.com/Plortinus/vue-multiple-pages) - A multiple Pages Starter use Vue-cli3
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 - [cnode-code](https://github.com/mov1er/cnode-code) - vue-museui重写cnodejs.org社区
 - [muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
@@ -348,3 +374,4 @@
 [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
 
 To the extent possible under law, [Feng-Bu-Jue](https://github.com/Feng-Bu-Jue) has waived all copyright and related or neighboring rights to this work.
+
