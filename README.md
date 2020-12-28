@@ -30,6 +30,10 @@
 
 ## C# # 
 
+- [AiurVersionControl](https://github.com/AiursoftWeb/AiurVersionControl) - A powerful collection sync framework that powers AiurTodo and Kahla.
+- [ClearScript](https://github.com/microsoft/ClearScript) - A library for adding scripting to .NET applications. Supports V8 (Windows, Linux, macOS) and JScript/VBScript (Windows).
+- [clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - :bathtub:  Clean Code concepts and tools adapted for .NET
+- [alipay-sdk-net-all](https://github.com/alipay/alipay-sdk-net-all) - 支付宝开放平台 Alipay SDK for .NET
 - [Owin.Token.AspNetCore](https://github.com/turgayozgur/Owin.Token.AspNetCore) - .NET Core library to reading OWIN based OAuth tokens.
 - [ApplicationInsights-dotnet](https://github.com/microsoft/ApplicationInsights-dotnet) - ApplicationInsights-dotnet
 - [grpc-dotnet](https://github.com/grpc/grpc-dotnet) - gRPC for .NET
@@ -79,7 +83,7 @@
 - [Hangfire.MemoryStorage](https://github.com/perrich/Hangfire.MemoryStorage) - A memory storage for Hangfire.
 - [dotNext](https://github.com/sakno/dotNext) - Next generation API for .NET
 - [shadowsocks-windows](https://github.com/shadowsocks/shadowsocks-windows) - If you want to keep a secret, you must also hide it from yourself.
-- [pixivfs-uwp](https://github.com/tobiichiamane/pixivfs-uwp) - A Pixiv client for UWP users
+- [pixivfs-uwp](https://github.com/sovetskyfish/pixivfs-uwp) - A Pixiv client for UWP users
 - [AsyncEnumerable](https://github.com/Dasync/AsyncEnumerable) - Defines IAsyncEnumerable, IAsyncEnumerator, ForEachAsync(), ParallelForEachAsync(), and other useful stuff to use with async-await
 - [EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts
 - [standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
@@ -208,6 +212,7 @@
 
 ## JavaScript 
 
+- [concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [react-native-web-webview](https://github.com/react-native-web-community/react-native-web-webview) - React Native for Web implementation of RN's WebView
 - [RainEffect](https://github.com/codrops/RainEffect) - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
