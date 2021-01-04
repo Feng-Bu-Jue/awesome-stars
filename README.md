@@ -5,6 +5,7 @@
 
 ## Contents
 
+  - [Batchfile](#batchfile)
   - [C](#c)
   - [C#](#c#)
   - [C++](#c++)
@@ -24,12 +25,17 @@
   - [Vim script](#vim-script)
   - [Vue](#vue)
 
+## Batchfile 
+
+- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
+
 ## C 
 
 - [netdata](https://github.com/netdata/netdata) - Real-time performance monitoring, done right! https://www.netdata.cloud
 
 ## C# # 
 
+- [DSA](https://github.com/rashed-cse08/DSA) - Data Structures and Algorithms using C#
 - [AiurVersionControl](https://github.com/AiursoftWeb/AiurVersionControl) - A powerful collection sync framework that powers AiurTodo and Kahla.
 - [ClearScript](https://github.com/microsoft/ClearScript) - A library for adding scripting to .NET applications. Supports V8 (Windows, Linux, macOS) and JScript/VBScript (Windows).
 - [clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - :bathtub:  Clean Code concepts and tools adapted for .NET
@@ -267,7 +273,6 @@
 ## Others 
 
 - [build-your-own-x](https://github.com/danistefanovic/build-your-own-x) - 🤓 Build your own (insert technology here)
-- [bilibili-API-collect](https://github.com/SocialSisterYi/bilibili-API-collect) - 哔哩哔哩-API收集整理【不断更新中....】
 - [gold-miner](https://github.com/xitu/gold-miner) - 🥇掘金翻译计划，可能是世界最大最好的英译中技术社区，最懂读者和译者的翻译平台：
 - [weekly](https://github.com/dt-fe/weekly) - 前端精读周刊
 - [computerese-cross-references](https://github.com/EarsEyesMouth/computerese-cross-references) - 计算机专业术语中英文对照。
@@ -300,6 +305,7 @@
 
 ## TypeScript 
 
+- [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [masonic](https://github.com/jaredLunde/masonic) - 🧱 High-performance masonry layouts for React
 - [util](https://github.com/react-component/util) - Common Utils For React Component
 - [tools](https://github.com/rome/tools) - The Rome Toolchain. A linter, compiler, bundler, and more for JavaScript, TypeScript, HTML, Markdown, and CSS.
