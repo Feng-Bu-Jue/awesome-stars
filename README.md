@@ -35,7 +35,8 @@
 
 ## C# # 
 
-- [DSA](https://github.com/rashed-cse08/DSA) - Data Structures and Algorithms using C#
+- [eShopOnWeb](https://github.com/dotnet-architecture/eShopOnWeb) - Sample ASP.NET Core 5.0 reference application, powered by Microsoft, demonstrating a layered application architecture with monolithic deployment model. Download the eBook PDF from docs folder.
+- [DSA](https://github.com/abdonkov/DSA) - Data structures and algorithms in C#
 - [AiurVersionControl](https://github.com/AiursoftWeb/AiurVersionControl) - A powerful collection sync framework that powers AiurTodo and Kahla.
 - [ClearScript](https://github.com/microsoft/ClearScript) - A library for adding scripting to .NET applications. Supports V8 (Windows, Linux, macOS) and JScript/VBScript (Windows).
 - [clean-code-dotnet](https://github.com/thangchung/clean-code-dotnet) - :bathtub:  Clean Code concepts and tools adapted for .NET
@@ -291,7 +292,7 @@
 - [12306](https://github.com/testerSunshine/12306) - 12306智能刷票，订票
 - [pixivpy](https://github.com/upbit/pixivpy) - Pixiv API for Python
 - [chinese-xinhua](https://github.com/pwxcoo/chinese-xinhua) - :orange_book: 中华新华字典数据库。包括歇后语，成语，词语，汉字。
-- [Ignareo-ISML-auto-voter](https://github.com/Hecate2/Ignareo-ISML-auto-voter) - Ignareo the Carillon, a web spider engine of ultimate concurrency built for leprechauns. Carillons as the best web spiders; Long live the golden years of leprechauns!
+- [Ignareo-ISML-auto-voter](https://github.com/Hecate2/Ignareo-ISML-auto-voter) - Ignareo the Carillon, a web spider template of ultimate concurrency built for leprechauns. Carillons as the best web spiders; Long live the golden years of leprechauns!
 
 ## Shell 
 
