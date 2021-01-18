@@ -15,6 +15,7 @@
   - [HTML](#html)
   - [Java](#java)
   - [JavaScript](#javascript)
+  - [Kotlin](#kotlin)
   - [Lua](#lua)
   - [Objective-C](#objective-c)
   - [Others](#others)
@@ -260,6 +261,10 @@
 - [PhyTouch](https://github.com/AlloyTeam/PhyTouch) - Smooth scrolling, rotation, pull to refresh, page transition and any motion for the web - 丝般顺滑的触摸运动方案
 - [puppeteer-soso](https://github.com/DMQ/puppeteer-soso) - 使用puppeteer搞点事情
 - [learnVue](https://github.com/answershuto/learnVue) - :octocat:Vue.js 源码解析
+
+## Kotlin 
+
+- [kotlin_tips](https://github.com/heimashi/kotlin_tips) - [DEPRECATED] 用Kotlin去提高生产力:汇总Kotlin相对于Java的优势，以及怎么用Kotlin去简洁、务实、高效、安全开发的Tips
 
 ## Lua 
 
