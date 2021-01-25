@@ -96,7 +96,7 @@
 - [EquinoxProject](https://github.com/EduardoPires/EquinoxProject) - Full ASP.NET Core 3.1 application with DDD, CQRS and Event Sourcing concepts
 - [standard](https://github.com/dotnet/standard) - This repo is building the .NET Standard
 - [referencesource](https://github.com/microsoft/referencesource) - Source from the Microsoft .NET Reference Source that represent a subset of the .NET Framework
-- [Avalonia](https://github.com/AvaloniaUI/Avalonia) - Avalonia is a cross-platform XAML-based UI framework providing a flexible styling system and supporting a wide range of Operating Systems such as Windows via .NET Framework and .NET Core, Linux via Xorg, macOS
+- [Avalonia](https://github.com/AvaloniaUI/Avalonia) - A cross platform XAML framework for .NET
 - [JsonJitSerializer](https://github.com/Martin1994/JsonJitSerializer) - A JIT JSON Serializer for .NET Core 3.0
 - [AvalonStudio](https://github.com/VitalElement/AvalonStudio) - Cross platform IDE and Shell
 - [FASTER](https://github.com/microsoft/FASTER) - Fast persistent recoverable log and key-value store + cache, in C# and C++.
@@ -146,7 +146,7 @@
 - [Autofac](https://github.com/autofac/Autofac) - An addictive .NET IoC container
 - [geolocation](https://github.com/scottschluer/geolocation) - A C# class library that will calculate distance and cardinal direction between two sets of coordinates and provides the lat/long boundaries around an origin coordinate allowing for simple SQL or LINQ selection of locations within the given radius.
 - [AsyncEx](https://github.com/StephenCleary/AsyncEx) - A helper library for async/await.
-- [FluentEmail](https://github.com/lukencode/FluentEmail) - .NET Core email sending
+- [FluentEmail](https://github.com/lukencode/FluentEmail) - All in one email sender for .NET. Supports popular senders (SendGrid, MailGun, etc) and Razor templates.
 - [enode](https://github.com/tangxuehua/enode) - ENode is a framework aims to help us developing ddd, cqrs, eda, and event sourcing style applications.
 - [aspnetboilerplate](https://github.com/aspnetboilerplate/aspnetboilerplate) - ASP.NET Boilerplate - Web Application Framework
 - [FluentHttpClient](https://github.com/Pathoschild/FluentHttpClient) - A modern async HTTP client for REST APIs. Its fluent interface lets you send an HTTP request and parse the response in one go.
@@ -226,7 +226,7 @@
 - [RainEffect](https://github.com/codrops/RainEffect) - Some experimental rain and water drop effects in different scenarios using WebGL, by Lucas Bebber.
 - [babel-plugin-tsconfig-paths](https://github.com/Js-Brecht/babel-plugin-tsconfig-paths) - Resolve imports/requires based on path aliases in tsconfig.json
 - [customize-cra](https://github.com/arackaf/customize-cra) - Override webpack configurations for create-react-app 2.0
-- [material-ui](https://github.com/mui-org/material-ui) - React components for faster and simpler web development. Build your own design system, or start with Material Design.
+- [material-ui](https://github.com/mui-org/material-ui) - Material-UI is a simple and customizable component library to build faster, beautiful, and more accessible React applications. Follow your own design system, or start with Material Design.
 - [react-virtual-scroller](https://github.com/liximomo/react-virtual-scroller) - A react implementation of twitter VirtualScroller.
 - [react-motion](https://github.com/chenglou/react-motion) - A spring that solves your animation problems.
 - [anime](https://github.com/juliangarnier/anime) - JavaScript animation engine
@@ -244,7 +244,7 @@
 - [ui-element-samples](https://github.com/GoogleChromeLabs/ui-element-samples) - A collection of prototyped UI elements
 - [FluidTransitions](https://github.com/fram-x/FluidTransitions) - Fluid Transitions for React Navigation
 - [awesome-react-native](https://github.com/jondot/awesome-react-native) - Awesome React Native components, news, tools, and learning material!
-- [react-native-web](https://github.com/necolas/react-native-web) - React Native for Web
+- [react-native-web](https://github.com/necolas/react-native-web) - React Native Components and APIs for the Web
 - [universalify](https://github.com/RyanZim/universalify) - Make a callback- or promise-based function support both promises and callbacks.
 - [react-native-neomorph-shadows](https://github.com/tokkozhin/react-native-neomorph-shadows) - Shadows and neumorphism/neomorphism for iOS & Android (like iOS).
 - [winston](https://github.com/winstonjs/winston) - A logger for just about everything.
@@ -311,6 +311,7 @@
 
 ## TypeScript 
 
+- [motion](https://github.com/framer/motion) - Open source, production-ready animation and gesture library for React
 - [jest](https://github.com/facebook/jest) - Delightful JavaScript Testing.
 - [masonic](https://github.com/jaredLunde/masonic) - 🧱 High-performance masonry layouts for React
 - [util](https://github.com/react-component/util) - Common Utils For React Component
