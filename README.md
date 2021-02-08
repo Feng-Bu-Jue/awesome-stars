@@ -36,6 +36,7 @@
 
 ## C# # 
 
+- [eShopOnDapr](https://github.com/dotnet-architecture/eShopOnDapr) - A sample .NET Core distributed application based on eShopOnContainers, powered by Dapr.
 - [v2rayN](https://github.com/2dust/v2rayN) - 
 - [ClosedXML](https://github.com/ClosedXML/ClosedXML) - ClosedXML is a .NET library for reading, manipulating and writing Excel 2007+ (.xlsx, .xlsm) files. It aims to provide an intuitive and user-friendly interface to dealing with the underlying OpenXML API.
 - [C-Sharp-Algorithms](https://github.com/aalhour/C-Sharp-Algorithms) - :books: :chart_with_upwards_trend: Plug-and-play class-library project of standard Data Structures and Algorithms in C#
@@ -202,6 +203,7 @@
 
 ## Go 
 
+- [dapr](https://github.com/dapr/dapr) - Dapr is a portable, event-driven, runtime for building distributed applications across cloud and edge.
 - [gin](https://github.com/gin-gonic/gin) - Gin is a HTTP web framework written in Go (Golang). It features a Martini-like API with much better performance -- up to 40 times faster. If you need smashing performance, get yourself some Gin.
 
 ## HTML 
@@ -351,7 +353,7 @@
 - [reflect-metadata](https://github.com/rbuckton/reflect-metadata) - Prototype for a Metadata Reflection API for ECMAScript
 - [DynamicMapper](https://github.com/DynamicMapper/DynamicMapper) - Object to object mapping in JavaScript
 - [loopback-next](https://github.com/strongloop/loopback-next) - LoopBack makes it easy to build modern API applications that require complex integrations.
-- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test for React, Vue, Angular, Ember, Web Components, & more!
+- [storybook](https://github.com/storybookjs/storybook) - 📓 The UI component explorer. Develop, document, & test React, Vue, Angular, Web Components, Ember, Svelte & more!
 - [wenyan](https://github.com/wenyan-lang/wenyan) - 文言文編程語言 A programming language for the ancient Chinese.
 - [stencil](https://github.com/ionic-team/stencil) - A Web Component compiler for building fast, reusable UI components and static site generated Progressive Web Apps
 - [vditor](https://github.com/Vanessa219/vditor) - ♏  一款浏览器端的 Markdown 编辑器，支持所见即所得（富文本）、即时渲染（类似 Typora）和分屏预览模式。An In-browser Markdown editor, support WYSIWYG (Rich Text),  Instant Rendering (Typora-like) and Split View modes.
@@ -375,6 +377,7 @@
 
 ## Vue 
 
+- [funds](https://github.com/x2rr/funds) - 自选基金助手是一款Chrome扩展，用来快速获取关注基金的实时数据，查看自选基金的实时估值情况
 - [iview-admin](https://github.com/iview/iview-admin) - Vue 2.0 admin management system template based on iView
 - [iview](https://github.com/iview/iview) - A high quality UI Toolkit built on Vue.js 2.0
 - [muse-ui](https://github.com/museui/muse-ui) - Material Design UI library for Vuejs 2.0
