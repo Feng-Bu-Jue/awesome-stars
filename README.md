@@ -64,7 +64,6 @@
 - [aspnet-api-versioning](https://github.com/microsoft/aspnet-api-versioning) - Provides a set of libraries which add service API versioning to ASP.NET Web API, OData with ASP.NET Web API, and ASP.NET Core.
 - [orleans-heroes](https://github.com/sketch7/orleans-heroes) - Microsoft Orleans sample app
 - [cecil](https://github.com/jbevain/cecil) - Cecil is a library to inspect, modify and create .NET programs and libraries.
-- [kotlin-net](https://github.com/wmeints/kotlin-net) - Kotlin compiler for the CLR
 - [server](https://github.com/bitwarden/server) - The core infrastructure backend (API, database, Docker, etc).
 - [Pixeval](https://github.com/dylech30th/Pixeval) - A Strong, Fast and Flexible Pixiv Client based on .NET Core and WPF
 - [AsyncAwaitBestPractices](https://github.com/brminnick/AsyncAwaitBestPractices) - Extensions for System.Threading.Tasks.Task and System.Threading.Tasks.ValueTask
@@ -226,6 +225,7 @@
 
 ## JavaScript 
 
+- [bounce-react-animation](https://github.com/Pavneet-Sing/bounce-react-animation) - Bouncing ball animation implementation in react using requestAnimationFrame.
 - [concurrently](https://github.com/kimmobrunfeldt/concurrently) - Run commands concurrently. Like `npm run watch-js & npm run watch-less` but better.
 - [draft-js](https://github.com/facebook/draft-js) - A React framework for building text editors.
 - [react-native-web-webview](https://github.com/react-native-web-community/react-native-web-webview) - React Native for Web implementation of RN's WebView
